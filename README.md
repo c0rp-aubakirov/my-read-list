@@ -67,3 +67,10 @@
 1. [Инфа о ЗП в сфере IT в Казахстане](https://goo.gl/forms/5fUUKOWkURFjsYTH2)
 2. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
 3. [Книги и учебные ресурсы по машинному обучению](https://goo.gl/LHbc4b)
+
+## Полезные курсы
+
+1. [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
+2. [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+3. [Machine Learning](https://www.coursera.org/learn/machine-learning)
+4. [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
