@@ -20,6 +20,7 @@
 6. http://www.yegor256.com/
 7. http://blog.cleancoder.com/
 8. https://martinfowler.com/
+9. Блог создателей SO и discourse https://blog.codinghorror.com/
 
 ## Гайды
 1. [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
