@@ -26,7 +26,7 @@
 9. Вопросы и ответы https://www.quora.com/
 10. Блог Yann LeCun http://yann.lecun.com/
 11. Сообщество программистов https://dou.ua/
-12. [научно-популярное развлекательное издание о том, что происходит в науке, технике и технологиях прямо сейчас.](https://nplus1.ru/)
+12. Научно-популярное развлекательное издание о том, что происходит в науке, технике и технологиях прямо сейчас. https://nplus1.ru/
 
 ## Каналы YouTube
 1. [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ)
