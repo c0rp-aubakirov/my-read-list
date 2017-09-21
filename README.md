@@ -26,6 +26,7 @@
 2. [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 3. [How can I minimize my chances of having a disabled child?](http://matt.might.net/articles/tenure/) Интересные мысли о том, что вдохновило человека стать хорошим исследователем и найти себя
 4. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
+5. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
 
 ## Полезные видео
 
