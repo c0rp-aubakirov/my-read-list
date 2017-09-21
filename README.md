@@ -11,8 +11,7 @@
 6. https://t.me/addmeto
 7. https://www.linux.org.ru/
 
-## Чтение для души
-1. Телеграм каналы https://github.com/c0rp-aubakirov/KZ-IT-telegram-list
+## Чтение для души 
 2. Блог о ML и Deep Learning http://karpathy.github.io/
 3. dirty.ru, https://d3.ru/user/sly2m/posts/
 4. https://habrahabr.ru/
@@ -21,6 +20,12 @@
 7. http://blog.cleancoder.com/
 8. https://martinfowler.com/
 9. Блог создателей SO и discourse https://blog.codinghorror.com/
+
+## Соц. сети
+1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
+2. [Телеграм каналы](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
+3. [Новости по Deep Learning. Ребята скидывают свежие научные статьи](https://vk.com/deeplearning)
+4. [Самые полезные и интересные материалы Яндекса для разработчиков](https://vk.com/yandex4developers)
 
 ## Гайды
 1. [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
