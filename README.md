@@ -29,8 +29,8 @@
 
 ## Полезные видео
 
-[Владимир Цукур — Путь от CRUD к Hypermedia API с Spring](https://www.youtube.com/watch?v=G9apMqwRedA)
-[Эффективная работа с кодом в IntelliJ IDEA](http://jeeconf.com/materials/intellij-idea/)
-[Выступление на конференции Клуба клиентов Альфа-Банка в Москве
+1. [Владимир Цукур — Путь от CRUD к Hypermedia API с Spring](https://www.youtube.com/watch?v=G9apMqwRedA)
+2. [Эффективная работа с кодом в IntelliJ IDEA](http://jeeconf.com/materials/intellij-idea/)
+3. [Выступление на конференции Клуба клиентов Альфа-Банка в Москве
 Как увидеть ошибки в своих рекламных кампаниях и что нужно сделать для их исправления.](https://youtu.be/kV_pdzWYuSk)
-[Базы данных. Транзакции. Вот что нужно преподавать на теориях баз данных. Дает отличное понимание](https://youtu.be/0FebRZE_Em8)
+4. [Базы данных. Транзакции. Вот что нужно преподавать на теориях баз данных. Дает отличное понимание](https://youtu.be/0FebRZE_Em8)
