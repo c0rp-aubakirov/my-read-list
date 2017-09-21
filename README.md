@@ -20,6 +20,7 @@
 6. http://blog.cleancoder.com/
 7. https://martinfowler.com/
 8. Блог создателей SO и discourse https://blog.codinghorror.com/
+9. Вопросы и ответы https://www.quora.com/
 
 ## Каналы YouTube
 1. [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ)
