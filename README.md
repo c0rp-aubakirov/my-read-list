@@ -59,3 +59,4 @@
 
 1. [Инфа о ЗП в сфере IT в Казахстане](https://goo.gl/forms/5fUUKOWkURFjsYTH2)
 2. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
+3. [Книги и учебные ресурсы по машинному обучению](https://goo.gl/LHbc4b)
