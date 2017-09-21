@@ -21,6 +21,20 @@
 7. https://martinfowler.com/
 8. Блог создателей SO и discourse https://blog.codinghorror.com/
 
+## Каналы YouTube
+1. [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ)
+2. [TED Talks are influential videos from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages.](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
+3. [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
+4. [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ)
+5. [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
+6. [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+7. [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+8. [MinutePhysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
+9. [Droider.ru](https://www.youtube.com/channel/UCY03gpyR__MuJtBpoSyIGnw)
+10. [Wylsacom](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)
+11. [Яндекс](https://www.youtube.com/channel/UCixlrqz8w-oa4UzdKyHLMaA)
+12. [GOTO Conference. От разработчиков разработчикам](https://www.youtube.com/user/GotoConferences)
+
 ## Соц. сети
 1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
 2. [Телеграм каналы](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
