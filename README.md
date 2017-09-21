@@ -12,14 +12,14 @@
 7. https://www.linux.org.ru/
 
 ## Чтение для души 
-2. Блог о ML и Deep Learning http://karpathy.github.io/
-3. dirty.ru, https://d3.ru/user/sly2m/posts/
-4. https://habrahabr.ru/
-5. http://www.degeneratestate.org/index.html
-6. http://www.yegor256.com/
-7. http://blog.cleancoder.com/
-8. https://martinfowler.com/
-9. Блог создателей SO и discourse https://blog.codinghorror.com/
+1. Блог о ML и Deep Learning http://karpathy.github.io/
+2. dirty.ru, https://d3.ru/user/sly2m/posts/
+3. https://habrahabr.ru/
+4. http://www.degeneratestate.org/index.html
+5. http://www.yegor256.com/
+6. http://blog.cleancoder.com/
+7. https://martinfowler.com/
+8. Блог создателей SO и discourse https://blog.codinghorror.com/
 
 ## Соц. сети
 1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
@@ -31,8 +31,7 @@
 1. [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 2. [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 3. [How can I minimize my chances of having a disabled child?](http://matt.might.net/articles/tenure/) Интересные мысли о том, что вдохновило человека стать хорошим исследователем и найти себя
-4. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
-5. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
+4. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
 
 ## Полезные видео
 
@@ -45,3 +44,4 @@
 ## Полезные ссылки
 
 1. [Инфа о ЗП в сфере IT в Казахстане](https://goo.gl/forms/5fUUKOWkURFjsYTH2)
+2. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
