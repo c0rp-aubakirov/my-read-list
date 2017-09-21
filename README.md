@@ -46,6 +46,7 @@
 2. [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 3. [How can I minimize my chances of having a disabled child?](http://matt.might.net/articles/tenure/) Интересные мысли о том, что вдохновило человека стать хорошим исследователем и найти себя
 4. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
+5. [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore)
 
 ## Полезные видео
 
