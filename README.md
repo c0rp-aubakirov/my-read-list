@@ -16,6 +16,7 @@
 6. https://t.me/addmeto
 7. https://www.linux.org.ru/
 8. https://www.theverge.com/
+9. http://www.computerra.ru/
 
 ## Чтение для души 
 1. Блог о ML и Deep Learning http://karpathy.github.io/
