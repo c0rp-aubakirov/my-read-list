@@ -3,6 +3,8 @@
 
 Буду пополнять его со временем
 
+## Телеграм каналы Казахстана про IT и не только
+1. [Телеграм каналы](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
 
 ## Новости
 1. https://medium.com/
@@ -44,9 +46,8 @@
 
 ## Соц. сети
 1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
-2. [Телеграм каналы](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
-3. [Новости по Deep Learning. Ребята скидывают свежие научные статьи](https://vk.com/deeplearning)
-4. [Самые полезные и интересные материалы Яндекса для разработчиков](https://vk.com/yandex4developers)
+2. [Новости по Deep Learning. Ребята скидывают свежие научные статьи](https://vk.com/deeplearning)
+3. [Самые полезные и интересные материалы Яндекса для разработчиков](https://vk.com/yandex4developers)
 
 ## Гайды
 1. [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
