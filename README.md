@@ -4,7 +4,8 @@
 Буду пополнять его со временем
 
 ## Телеграм каналы Казахстана про IT и не только
-1. [Телеграм каналы](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
+1. [Телеграм каналы IT и вакансии IT](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
+2. [Телеграм каналы, новости, маркетинг](https://www.kanapiya.ru/telegram-kanaly-kazakhstana/)
 
 ## Новости
 1. https://medium.com/
