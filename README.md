@@ -75,11 +75,11 @@
 3. [Книги и учебные ресурсы по машинному обучению](https://goo.gl/LHbc4b)
 4. [Deep learning TED talks](http://www.rafaelgrossmann.com/deep-really-deep-learning/)
 5. [Capsule Network | Geoff Hinton. Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
-  * https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb
-  * https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
-  * https://kndrck.co/posts/capsule_networks_explained/
-  * https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952
-  * https://www.youtube.com/watch?v=pPN8d0E3900
+   * https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb
+   * https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
+   * https://kndrck.co/posts/capsule_networks_explained/
+   * https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952
+   * https://www.youtube.com/watch?v=pPN8d0E3900
 
 ## Полезные курсы
 
