@@ -67,6 +67,9 @@
 4. [Базы данных. Транзакции. Вот что нужно преподавать на теориях баз данных. Дает отличное понимание](https://youtu.be/0FebRZE_Em8)
 5. [Открытая лекция: Кому и зачем нужен блокчейн](https://youtu.be/rumbsYfQojk)
 6. [Can a robot pass a university entrance exam? Каким должно быть образование будущего](https://youtu.be/AO4In7d6X-c)
+7. [HIGHLOAD. JVM. Java в высоконагруженных системах. JVM кишки, тюнинг](https://www.youtube.com/watch?v=R-pzAdhTzVc)
+8. [Критика современной Java, паттернов, очередей и т.д.](https://www.youtube.com/watch?v=TSAlj04_tkA)
+9. [Лекции про БД. Транзакции in a nutshell](https://www.youtube.com/watch?v=0FebRZE_Em8&t=8174s)
 
 ## Полезные ссылки
 
