@@ -74,6 +74,12 @@
 2. [Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.](https://github.com/t-izbassar/topjava)
 3. [Книги и учебные ресурсы по машинному обучению](https://goo.gl/LHbc4b)
 4. [Deep learning TED talks](http://www.rafaelgrossmann.com/deep-really-deep-learning/)
+5. [Capsule Network | Geoff Hinton. Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+  * https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb
+  * https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc
+  * https://kndrck.co/posts/capsule_networks_explained/
+  * https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952
+  * https://www.youtube.com/watch?v=pPN8d0E3900
 
 ## Полезные курсы
 
@@ -81,4 +87,5 @@
 2. [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 3. [Machine Learning](https://www.coursera.org/learn/machine-learning)
 4. [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
+
 
