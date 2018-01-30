@@ -92,3 +92,6 @@
 4. [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)
 
 
+## 2018 год
+
+1. Google разразился очень длинным постом дизайнеров о том, как должно выглядеть и работать приложение с использованием AI https://design.google/library/ux-ai/
