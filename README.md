@@ -95,3 +95,4 @@
 ## 2018 год
 
 1. Google разразился очень длинным постом дизайнеров о том, как должно выглядеть и работать приложение с использованием AI https://design.google/library/ux-ai/
+2. [Что есть тестирование ПО](https://testitquickly.com/2010/03/09/testing-basics-by-barancev/)
