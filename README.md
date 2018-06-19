@@ -97,3 +97,4 @@
 1. Google разразился очень длинным постом дизайнеров о том, как должно выглядеть и работать приложение с использованием AI https://design.google/library/ux-ai/
 2. [Что есть тестирование ПО](https://testitquickly.com/2010/03/09/testing-basics-by-barancev/)
 3. [Туториал по созданию чатбота](https://github.com/llSourcell/chatbot_tutorial)
+4. [Self-hosted alternatives](https://n0where.net/best-self-hosted-alternatives)
