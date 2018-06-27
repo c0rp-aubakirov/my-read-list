@@ -98,3 +98,4 @@
 2. [Что есть тестирование ПО](https://testitquickly.com/2010/03/09/testing-basics-by-barancev/)
 3. [Туториал по созданию чатбота](https://github.com/llSourcell/chatbot_tutorial)
 4. [Self-hosted alternatives](https://n0where.net/best-self-hosted-alternatives)
+5. [FOSS BI list](https://www.predictiveanalyticstoday.com/open-source-free-business-intelligence-solutions/)
