@@ -99,3 +99,4 @@
 3. [Туториал по созданию чатбота](https://github.com/llSourcell/chatbot_tutorial)
 4. [Self-hosted alternatives](https://n0where.net/best-self-hosted-alternatives)
 5. [FOSS BI list](https://www.predictiveanalyticstoday.com/open-source-free-business-intelligence-solutions/)
+6. [A Survey of Indoor Localization Systems and Technologies](https://arxiv.org/abs/1709.01015)
