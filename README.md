@@ -111,6 +111,6 @@
 
 >In this talk, we will first give an overview of challenges for interactive data exploration on large data sets and then present current research results that revisit the design of existing data management systems, from the query interface to the storage and the underlying hardware, to enable interactive data exploration.
 
-3. Speaker Gian Pietro Picco, University of Trento - Italy. Is IoT Ready for the Real World? A Systems Research Perspective. Рассказывал про IoT внедрение в туннелях Италии для автоматизации, повышения эффективности и экономии энерегии. В конце было очень много интересных take homes.
+3. Speaker Gian Pietro Picco, University of Trento - Italy. Is IoT Ready for the Real World? A Systems Research Perspective. Рассказывал про IoT внедрение в туннелях Италии для автоматизации, повышения эффективности и экономии энерегии. В конце было очень много интересных takeouts.
 
 >These improvements are representative of what has been achieved by WSN research, and may be illustrative of what we can expect in the near future from IoT at large. On the other hand, I also argue that the root of these achievements lies in a few key factors whose presence is not immediately evident in today's IoT research. These factors, along with a few challenges and current trends discussed in the talk, are going to determine whether and how the IoT vision will ultimately materialize.
