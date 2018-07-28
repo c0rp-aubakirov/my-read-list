@@ -100,9 +100,9 @@
 4. [Self-hosted alternatives](https://n0where.net/best-self-hosted-alternatives)
 5. [FOSS BI list](https://www.predictiveanalyticstoday.com/open-source-free-business-intelligence-solutions/)
 6. [A Survey of Indoor Localization Systems and Technologies](https://arxiv.org/abs/1709.01015)
-
-### DATA 2018 Conference takeout
-
+<details>
+  <summary>DATA 2018 Conference takeout</summary>
+  
 1. Speaker Tova Mila, Tel Aviv University - Israel. Data-Driven Crowdsourcing. Работа о том, как правильго собирать данные из соц. опросов. Разработана методология формирования вопросов на основе Онтологий,хорошо проработаны вопросы психологии и социологии
 
 >(1) How domain experts can help in improving the data itself, e.g. by gathering missing data and improving the quality of existing data, (2) How they can assist in gathering meta-data that facilitate improved data processing, and (3) How can we find and identify the most relevant crowd for a given data management task.
@@ -118,3 +118,5 @@
 4. Постер - An Investigation into the Energy Consumption of HTTP POST Request Methods for Android App Development. Интересен как исследование, подобные задачи можно давать студентам.
 
 >Our results provide useful guidance for mobile app developers. In particular, we found that implementation using OkHttp consumes less energy than the implementation using HttpURLConnection or Volley libraries.
+
+</details>
