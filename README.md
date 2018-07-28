@@ -114,3 +114,7 @@
 3. Speaker Gian Pietro Picco, University of Trento - Italy. Is IoT Ready for the Real World? A Systems Research Perspective. Рассказывал про IoT внедрение в туннелях Италии для автоматизации, повышения эффективности и экономии энерегии. В конце было очень много интересных takeouts.
 
 >These improvements are representative of what has been achieved by WSN research, and may be illustrative of what we can expect in the near future from IoT at large. On the other hand, I also argue that the root of these achievements lies in a few key factors whose presence is not immediately evident in today's IoT research. These factors, along with a few challenges and current trends discussed in the talk, are going to determine whether and how the IoT vision will ultimately materialize.
+
+4. Постер - An Investigation into the Energy Consumption of HTTP POST Request Methods for Android App Development. Интересен как исследование, подобные задачи можно давать студентам.
+
+>Our results provide useful guidance for mobile app developers. In particular, we found that implementation using OkHttp consumes less energy than the implementation using HttpURLConnection or Volley libraries.
