@@ -58,6 +58,11 @@
 4. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
 5. [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore)
 
+## Журналы и конференции
+
+1. https://tiot.acm.org/
+2. http://conferences.computer.org/iotdi/
+
 ## Полезные видео
 
 1. [Владимир Цукур — Путь от CRUD к Hypermedia API с Spring](https://www.youtube.com/watch?v=G9apMqwRedA)
