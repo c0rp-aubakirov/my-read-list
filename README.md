@@ -106,6 +106,8 @@
 5. [FOSS BI list](https://www.predictiveanalyticstoday.com/open-source-free-business-intelligence-solutions/)
 7. [Diagrams For Documentation for git wiki](https://gist.github.com/rodneyrehm/40e7946c0cff68a31cea)
 6. [A Survey of Indoor Localization Systems and Technologies](https://arxiv.org/abs/1709.01015)
+8. [How famous API using http status codes](https://gist.github.com/vkostyukov/32c84c0c01789425c29a)
+9. [Decision tree for http status codes](http://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)
 <details>
   <summary>DATA 2018 Conference takeout</summary>
   
