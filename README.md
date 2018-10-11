@@ -88,6 +88,7 @@
    * https://kndrck.co/posts/capsule_networks_explained/
    * https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952
    * https://www.youtube.com/watch?v=pPN8d0E3900
+6. [Объяснение монад](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/)
 
 ## Полезные курсы
 
