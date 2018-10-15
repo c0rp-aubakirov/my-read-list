@@ -89,6 +89,7 @@
    * https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952
    * https://www.youtube.com/watch?v=pPN8d0E3900
 6. [Объяснение монад](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/)
+7. [Инерциальная навигация Sebastian Madgwick](http://x-io.co.uk/open-source-imu-and-ahrs-algorithms/)
 
 ## Полезные курсы
 
