@@ -90,6 +90,7 @@
    * https://www.youtube.com/watch?v=pPN8d0E3900
 6. [Объяснение монад](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/)
 7. [Инерциальная навигация Sebastian Madgwick](http://x-io.co.uk/open-source-imu-and-ahrs-algorithms/)
+8. [Why learn Algorithms and Data Structure](https://adrianmejia.com/blog/2018/04/04/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
 
 ## Полезные курсы
 
