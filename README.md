@@ -7,6 +7,12 @@
 1. [Телеграм каналы IT и вакансии IT](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list)
 2. [Телеграм каналы, новости, маркетинг](https://www.kanapiya.ru/telegram-kanaly-kazakhstana/)
 
+## Книги
+
+1. The Hard Thing About Hard Things Book by Ben Horowitz
+2.
+
+
 ## Новости
 1. https://medium.com/
 2. https://techcrunch.com/
