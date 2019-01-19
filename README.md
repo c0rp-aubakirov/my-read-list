@@ -139,3 +139,9 @@
 >Our results provide useful guidance for mobile app developers. In particular, we found that implementation using OkHttp consumes less energy than the implementation using HttpURLConnection or Volley libraries.
 
 </details>
+
+## 2019 год
+1. [Психология памяти](https://youtu.be/UDM6tSd-Z6o)
+https://youtu.be/UDM6tSd-Z6o
+
+
