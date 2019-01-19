@@ -142,6 +142,6 @@
 
 ## 2019 год
 1. [Психология памяти](https://youtu.be/UDM6tSd-Z6o)
-https://youtu.be/UDM6tSd-Z6o
+2. [Эффективность](https://youtu.be/XDF02KmgJFE)
 
 
