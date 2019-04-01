@@ -144,4 +144,5 @@
 1. [Психология памяти](https://youtu.be/UDM6tSd-Z6o)
 2. [Эффективность](https://youtu.be/XDF02KmgJFE)
 3. [State of the art papers](https://paperswithcode.com/sota)
-
+4. [Brilliant thread on ROC curve usage](https://threadreaderapp.com/thread/1104134423673479169.html)
+4. [Image object detection explanation](https://machinethink.net/blog/object-detection/)
