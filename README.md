@@ -147,3 +147,4 @@
 4. [Brilliant thread on ROC curve usage](https://threadreaderapp.com/thread/1104134423673479169.html)
 4. [Image object detection explanation](https://machinethink.net/blog/object-detection/)
 5. [Back propagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+6. [Много книг, хороших и разных](https://m.habr.com/ru/post/77016/)
