@@ -10,7 +10,8 @@
 ## Книги
 
 1. The Hard Thing About Hard Things Book by Ben Horowitz
-2.
+2. Deadline (Том ДеМарко)
+3. Астровитянак (Ник. Горькавый)
 
 
 ## Новости
