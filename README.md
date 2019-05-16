@@ -149,3 +149,6 @@
 4. [Image object detection explanation](https://machinethink.net/blog/object-detection/)
 5. [Back propagation explained](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 6. [Много книг, хороших и разных](https://m.habr.com/ru/post/77016/)
+7. [Using Netvizz & Gephi to Analyze a Facebook Network](https://persuasionradio.wordpress.com/2010/05/06/using-netvizz-gephi-to-analyze-a-facebook-network/)
+8. [Gephi Toolkit Tutorial](https://www.slideshare.net/gephi/gephi-toolkit-tutorialtoolkit)
+9. [Graph visualization tools comparison](https://www.youtube.com/watch?v=Ax7KSQZ0_hk)
