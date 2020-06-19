@@ -155,3 +155,10 @@
 
 ## 2020 год
 1. [Michael Bronstein статья о Graph Representation Learning](https://towardsdatascience.com/deep-learning-on-graphs-successes-challenges-and-next-steps-7d9ec220ba8)
+2. [Про транспортную задачу, Optimal Transport ](https://towardsdatascience.com/optimal-transport-a-hidden-gem-that-empowers-todays-machine-learning-2609bbf67e59)
+3. [Работы из области Graph Learning](https://people.csail.mit.edu/jshun/graph.shtml)
+4. [Everything you always wanted to know about 
+multicore graph processing but were afraid to ask](https://www.usenix.org/system/files/conference/atc17/atc17-malicevic.pdf)
+5. [Graph Visualization and Navigation in Information 
+Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att/b836.content.pdf)
+6. [Хороший обзор по визуализации больших графов. Обратить внимание на embeddings и umap](https://towardsdatascience.com/large-graph-visualization-tools-and-approaches-2b8758a1cd59)
