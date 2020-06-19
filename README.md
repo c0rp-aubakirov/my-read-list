@@ -152,3 +152,6 @@
 7. [Using Netvizz & Gephi to Analyze a Facebook Network](https://persuasionradio.wordpress.com/2010/05/06/using-netvizz-gephi-to-analyze-a-facebook-network/)
 8. [Gephi Toolkit Tutorial](https://www.slideshare.net/gephi/gephi-toolkit-tutorialtoolkit)
 9. [Graph visualization tools comparison](https://www.youtube.com/watch?v=Ax7KSQZ0_hk)
+
+## 2020 год
+1. [Michael Bronstein статья о Graph Representation Learning](https://towardsdatascience.com/deep-learning-on-graphs-successes-challenges-and-next-steps-7d9ec220ba8)
