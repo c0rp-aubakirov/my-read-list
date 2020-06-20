@@ -162,3 +162,4 @@ multicore graph processing but were afraid to ask](https://www.usenix.org/system
 5. [Graph Visualization and Navigation in Information 
 Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att/b836.content.pdf)
 6. [Хороший обзор по визуализации больших графов. Обратить внимание на embeddings и umap](https://towardsdatascience.com/large-graph-visualization-tools-and-approaches-2b8758a1cd59)
+7. [Набор скриптов от pgexperts](https://github.com/pgexperts/pgx_scripts)
