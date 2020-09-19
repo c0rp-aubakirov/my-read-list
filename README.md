@@ -164,3 +164,6 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 6. [Хороший обзор по визуализации больших графов. Обратить внимание на embeddings и umap](https://towardsdatascience.com/large-graph-visualization-tools-and-approaches-2b8758a1cd59)
 7. [Набор скриптов от pgexperts](https://github.com/pgexperts/pgx_scripts)
 8. [Мы составили карту навыков и компетенций тимлидов, которую можно адаптировать для любой компании и команды. Попробуйте приложить её и к себе!](https://tlroadmap.io/)
+9. [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://youtu.be/a-BOSpxYJ9M). Соавтор "Pragmatic Programmer" и "The Manifesto for Agile Software Development" говорит во что превратился Agile. Запомнились две фразы: 
+    1) For the benefit of tests comes from design aspects, the fact that it helps to understand the design of my code, helps to design interfaces and apis, helps to decouple my code. But I'm doing this for so long that now i think about that as i',m coding and test doesn't have to exist, it still drive the design. I don't write test for all peace, but I'm testing the complex alghorithms
+    2) Do not follow rules strictly, being following rules is against the agility, each company have their own implementation of Agile. Agile is not a noun, it is an adjective.
