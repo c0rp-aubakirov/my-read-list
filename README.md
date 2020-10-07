@@ -9,9 +9,14 @@
 
 ## Книги
 
-1. The Hard Thing About Hard Things Book by Ben Horowitz
-2. Deadline (Том ДеМарко)
-3. Астровитянак (Ник. Горькавый)
+1. The Hard Thing About Hard Things Book by Ben Horowitz. 2017
+2. Deadline (Том ДеМарко). 2018
+3. Бог как иллюзия. (Ричард Докинз). 2018
+4. Астровитянка (Ник. Горькавый). 2019
+5. Слепой часовщик (Ричард Докинз). 2020
+6. Цель. Процесс непрерывного совершенствования (Элияху Голдратт). 2020
+7. Сумма технолгий (Станислав Лем). 2020
+8. 451 градус по фаренгейту (Рэй Брэдбери)
 
 
 ## Новости
@@ -167,3 +172,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 9. [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://youtu.be/a-BOSpxYJ9M). Соавтор "Pragmatic Programmer" и "The Manifesto for Agile Software Development" говорит во что превратился Agile. Запомнились две фразы: 
     1) For the benefit of tests comes from design aspects, the fact that it helps to understand the design of my code, helps to design interfaces and apis, helps to decouple my code. But I'm doing this for so long that now i think about that as i',m coding and test doesn't have to exist, it still drive the design. I don't write test for all peace, but I'm testing the complex alghorithms
     2) Do not follow rules strictly, being following rules is against the agility, each company have their own implementation of Agile. Agile is not a noun, it is an adjective.
+10. [Введение в мат. статистику с визуализацией](https://seeing-theory.brown.edu/index.html#4thPage)
