@@ -25,13 +25,13 @@
 ## Новости
 1. https://medium.com/
 2. https://techcrunch.com/
-3. https://www.bloomberg.com/
 4. https://journal.tinkoff.ru/
 5. https://about.gitlab.com/blog/
 6. https://t.me/addmeto
 7. https://www.linux.org.ru/
 8. https://www.theverge.com/
 9. http://www.computerra.ru/
+10. https://t.me/zenleaks
 
 ## Чтение для души 
 1. Блог о ML и Deep Learning http://karpathy.github.io/
@@ -56,10 +56,10 @@
 6. [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
 7. [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
 8. [MinutePhysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
-9. [Droider.ru](https://www.youtube.com/channel/UCY03gpyR__MuJtBpoSyIGnw)
-10. [Wylsacom](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)
 11. [Яндекс](https://www.youtube.com/channel/UCixlrqz8w-oa4UzdKyHLMaA)
 12. [GOTO Conference. От разработчиков разработчикам](https://www.youtube.com/user/GotoConferences)
+13. [Пост наука](https://www.youtube.com/channel/UCSPd93is2UQsd_jZ6yHBfqQ)
+14. [Культурно-просветительского центра "Архэ"](https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-LYQ)
 
 ## Соц. сети
 1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
@@ -90,6 +90,7 @@
 7. [HIGHLOAD. JVM. Java в высоконагруженных системах. JVM кишки, тюнинг](https://www.youtube.com/watch?v=R-pzAdhTzVc)
 8. [Критика современной Java, паттернов, очередей и т.д.](https://www.youtube.com/watch?v=TSAlj04_tkA)
 9. [Лекции про БД. Транзакции in a nutshell](https://www.youtube.com/watch?v=0FebRZE_Em8&t=8174s)
+10. [Про эффективность](http://youtube.com/watch?v=K6oZuB8_dU8)
 
 ## Полезные ссылки
 
