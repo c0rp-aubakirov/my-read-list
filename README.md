@@ -77,6 +77,7 @@
 
 1. https://tiot.acm.org/
 2. http://conferences.computer.org/iotdi/
+3. https://www.mdpi.com/journal/information
 
 ## Полезные видео
 
