@@ -178,3 +178,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
     1) For the benefit of tests comes from design aspects, the fact that it helps to understand the design of my code, helps to design interfaces and apis, helps to decouple my code. But I'm doing this for so long that now i think about that as i',m coding and test doesn't have to exist, it still drive the design. I don't write test for all peace, but I'm testing the complex alghorithms
     2) Do not follow rules strictly, being following rules is against the agility, each company have their own implementation of Agile. Agile is not a noun, it is an adjective.
 10. [Введение в мат. статистику с визуализацией](https://seeing-theory.brown.edu/index.html#4thPage)
+11. [Сколько стоят тестировщики и от чего зависят их зарплаты? Строим портрет успешного QA-специалиста](https://habr.com/ru/post/446650/)
