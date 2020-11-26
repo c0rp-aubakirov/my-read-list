@@ -180,3 +180,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 10. [Введение в мат. статистику с визуализацией](https://seeing-theory.brown.edu/index.html#4thPage)
 11. [Сколько стоят тестировщики и от чего зависят их зарплаты? Строим портрет успешного QA-специалиста](https://habr.com/ru/post/446650/)
 12. [Базы данных и Kubernetes (Дмитрий Столяров, Флант, HighLoad++ 2018)](https://www.youtube.com/watch?v=BnegHj53pW4)
+13. [Roadmap to becoming a Automation Test Engineer](https://roadmap.testleaf.in)
