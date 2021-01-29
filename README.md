@@ -183,3 +183,5 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 12. [Базы данных и Kubernetes (Дмитрий Столяров, Флант, HighLoad++ 2018)](https://www.youtube.com/watch?v=BnegHj53pW4)
 13. [Roadmap to becoming a Automation Test Engineer](https://roadmap.testleaf.in)
 14. [Классная визуализация алгоритма raft, для достижения распределенного консенсуса](http://thesecretlivesofdata.com/raft/)
+15. [Open source google analytics. A complete product analytics stack, to deploy on your infrastructure.](https://posthog.com/)
+16. [We call the right person on your team when your site goes down.](https://betteruptime.com/)
