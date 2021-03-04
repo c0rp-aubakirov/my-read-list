@@ -185,3 +185,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 14. [Классная визуализация алгоритма raft, для достижения распределенного консенсуса](http://thesecretlivesofdata.com/raft/)
 15. [Open source google analytics. A complete product analytics stack, to deploy on your infrastructure.](https://posthog.com/)
 16. [We call the right person on your team when your site goes down.](https://betteruptime.com/)
+17. [Портрет QA специалиста, карта компетенций](https://habr.com/ru/post/446650/)
