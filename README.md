@@ -186,3 +186,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 15. [Open source google analytics. A complete product analytics stack, to deploy on your infrastructure.](https://posthog.com/)
 16. [We call the right person on your team when your site goes down.](https://betteruptime.com/)
 17. [Портрет QA специалиста, карта компетенций](https://habr.com/ru/post/446650/)
+18. [10 Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html)
