@@ -187,3 +187,6 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 16. [We call the right person on your team when your site goes down.](https://betteruptime.com/)
 17. [Портрет QA специалиста, карта компетенций](https://habr.com/ru/post/446650/)
 18. [10 Software Engineering Laws Everybody Loves to Ignore](https://www.netmeister.org/blog/software-engineering-laws.html)
+19. [Optimal diversification strategies in the networksof related products and of related research areas](https://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5aec62e02b6a28e0ef597d94/1525441249028/Alshamsi_et_al_NatComm_2018.pdf)
+  20. Relatedness of products, Graph Theory 
+  21. [Relatedness](https://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5783be2d440243db4a550a84/1468251696692/HidalgoKlingerBarabasiHausmannScience2007.pdf)
