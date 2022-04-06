@@ -195,3 +195,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 1. [Статья о специальности SE и как должна выглядеть образовательная программа]https://www.researchgate.net/publication/232948975_Software_engineering_education_Some_important_dimensions
 2. [Статья о проблемах SE специальности] (https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 3. [Большая статья об SE и GSE, внутри большой обзор статей](https://www.sciencedirect.com/science/article/pii/S0164121220301667)
+4. [Статья о системном подходе к анализу статей, о том как делать Literature Review](https://www.researchgate.net/publication/228350426_Systematic_Mapping_Studies_in_Software_Engineering)
