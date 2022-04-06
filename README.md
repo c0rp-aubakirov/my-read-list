@@ -193,3 +193,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 
 #2022
 1. [Статья о специальности SE и как должна выглядеть образовательная программа]https://www.researchgate.net/publication/232948975_Software_engineering_education_Some_important_dimensions
+2. [Статья о проблемах SE специальности] (https://www.sciencedirect.com/science/article/pii/S0164121220301667)
