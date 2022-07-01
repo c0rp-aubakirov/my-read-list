@@ -22,6 +22,8 @@
 8. 451 градус по фаренгейту (Рэй Брэдбери)
 9. Видимое обучение (Джон Хэтти). 2020
 10. Чистый лист (Стивен Пинкер). 2020
+11. Team Topologies (Matthew Skelton, Manuel Pais). 2022
+12. Gravity. https://www.amazon.com/Taking-Gravity-Inventing-Impossible-Learned/dp/1787630897. 2022
 
 ## Новости
 1. https://medium.com/
@@ -196,3 +198,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 2. [Статья о проблемах SE специальности] (https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 3. [Большая статья об SE и GSE, внутри большой обзор статей](https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 4. [Статья о системном подходе к анализу статей, о том как делать Literature Review](https://www.researchgate.net/publication/228350426_Systematic_Mapping_Studies_in_Software_Engineering)
+5. [reMARS, интересное от амазон. Особенно интересна часть про синтез данных для computer vision на основе 3D реконструкций Roni Sole. Также интереснейшие мысли про Graph Machine Learning](https://youtu.be/_wd0IJBTwbY)
