@@ -26,6 +26,7 @@
 12. Шум. Несовершенство человеческих суждений (Даниэль Канеман, Оливье Сибони, Касс Р. Санстейн). 2022
 13. TODO. Gravity (Richard Browning). https://www.amazon.com/Taking-Gravity-Inventing-Impossible-Learned/dp/1787630897. 2022
 14. TODO. Working Backwards: Insights, Stories, and Secrets from Inside Amazon (Colin Bryar). 2022
+15. Мой лучший друг - желудок. Елена Мотова. Доказательная медицина. 2022
 
 
 ## Новости
