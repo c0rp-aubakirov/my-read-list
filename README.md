@@ -203,3 +203,4 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 3. [Большая статья об SE и GSE, внутри большой обзор статей](https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 4. [Статья о системном подходе к анализу статей, о том как делать Literature Review](https://www.researchgate.net/publication/228350426_Systematic_Mapping_Studies_in_Software_Engineering)
 5. [reMARS, интересное от амазон. Особенно интересна часть про синтез данных для computer vision на основе 3D реконструкций Roni Sole. Также интереснейшие мысли про Graph Machine Learning](https://youtu.be/_wd0IJBTwbY)
+6. [Хорошо описано что такое Microservices and Service Based Design](https://youtu.be/zzMLg3Ys5vI)
