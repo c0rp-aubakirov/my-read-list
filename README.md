@@ -19,16 +19,18 @@
 5. Слепой часовщик (Ричард Докинз). 2020
 6. Цель. Процесс непрерывного совершенствования (Элияху Голдратт). 2020
 7. Сумма технолгий (Станислав Лем). 2020
-8. 451 градус по фаренгейту (Рэй Брэдбери)
+8. 451 градус по фаренгейту (Рэй Брэдбери). 2020
 9. Видимое обучение (Джон Хэтти). 2020
 10. Чистый лист (Стивен Пинкер). 2020
 11. Team Topologies (Matthew Skelton, Manuel Pais). 2022
 12. Шум. Несовершенство человеческих суждений (Даниэль Канеман, Оливье Сибони, Касс Р. Санстейн). 2022
 13. TODO. Gravity (Richard Browning). https://www.amazon.com/Taking-Gravity-Inventing-Impossible-Learned/dp/1787630897. 2022
-14. TODO. Working Backwards: Insights, Stories, and Secrets from Inside Amazon (Colin Bryar). 2022
+14. Working Backwards: Insights, Stories, and Secrets from Inside Amazon (Colin Bryar). 2022
 15. Мой лучший друг - желудок. Елена Мотова. Доказательная медицина. 2022
 16. Лидер и племя. Пять уровней корпоративной культуры. 2023
-17. Человек, который принял жену за шляпу. 2024
+17. Открывая организации будущего (Фредерик Лалу). 2023
+18. Человек, который принял жену за шляпу. 2024
+19. TODO Хитмейкеры. Наука популярности в эпоху развлечений
 
 
 ## Новости
@@ -212,8 +214,11 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 #2023
 1. [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44321681-team-topologies) by Matthew Skelton, Manuel Pais, et al. Эта книга предлагает инновационный подход к организации и взаимодействию команд в бизнесе и технологиях для достижения более быстрого и эффективного потока работы. Авторы делают акцент на значимости структуры команд, взаимодействия и четкого разграничения ответственности для оптимизации процессов разработки и операционной деятельности.
 2. "Лидер и племя. Пять уровней корпоративной культуры". Эта книга освещает ключевые аспекты формирования и развития корпоративной культуры на разных уровнях организационной структуры. Авторы детально разбирают пять уровней, на которых лидер может влиять на формирование культуры в компании, и предлагают практические советы по укреплению и поддержанию здоровой рабочей атмосферы.
-3. [Make Friends with the Monster Chewing on Your Leg and Other Tips for Surviving Startups](https://review.firstround.com/make-friends-with-the-monster-chewing-on-your-leg-and-other-tips-for-surviving-startups). Советы и стратегии для тех, кто работает в стартапах. Акцент на уникальные вызовы и динамику стартап среды. Подчеркивает важность гибкости, настойчивости и способности налаживать отношения даже в самых трудных обстоятельствах. Важно быть прозрачными и открытыми друг с другом.
+3. [Make Friends with the Monster Chewing on Your Leg and Other Tips for Surviving Startups](https://review.firstround.com/make-friends-with-the-monster-chewing-on-your-leg-and-other-tips-for-surviving-startups). Советы и стратегии для тех, кто работает в стартапах. Акцент на уникальные вызовы и динамику стартап среды. Подчеркивает важность гибкости, настойчивости и способности налаживать отношения даже в самых трудных обстоятельствах. Важно быть прозрачными и открытыми друг с другом. How much healthier would everyone be if they realized that people at all the startups they admire also feel terrified half the time?” says Graham. “There’s so much power in admitting and sharing that, in recognizing that it doesn’t actually mean that the company is driving off a cliff.
 4. [Give Away Your Legos and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups). Фокусируется на ключевых принципах и стратегиях масштабирования стартапов. Обсуждается важность готовности к переменам, передачи ответственности и умения адаптироваться к растущим потребностям компании. Важно уметь отдавать и делегировать
 5. [Планировали, планировали и выпланировали: Переход на Shape Up от Basecamp](https://habr.com/ru/articles/775568/). Статья рассказывает о переходе команды с использования Scrum на подход Shape Up, разработанный Basecamp. Автор подробно описывает методологию Shape Up, акцентируя внимание на её структуре, циклах работы, роли команды и процессе принятия решений. Освещены преимущества подхода, такие как улучшенное планирование, чёткость приоритетов и повышенная продуктивность, а также потенциальные трудности при интеграции методологии в существующие процессы. Очень похоже на то, что нам удалось сделать в innoforce.kz
-6. [Про уникальную культуру levelshealth, про их async culture и про их memo culture ](https://youtu.be/MtrkDoQFArU?si=K5t1GA03CuWKAslC)
-7. [Как проводить собрания в Levels Health.](https://levelshealth.notion.site/How-Levels-Does-Meetings-7494df9281bf4bb8ac16b97a291e4cb6) Документ из Levels Health описывает их подход к проведению собраний в культуре удалённой работы. Он акцентирует внимание на сокращении синхронных собраний в пользу асинхронного общения через письменные документы, записи и электронную почту, ценя время сотрудников и способствуя работе. Для редких синхронных собраний применяется следующая стратегия: 1. **Prepare in advance.** 2. **Invite as few people as possible.** 3. **Be on time.** 4. **Take notes and follow through.** 5. **Record & distribute.** 
+6. [Про уникальную культуру levelshealth, про их async culture и про их memo culture ](https://youtu.be/MtrkDoQFArU?si=K5t1GA03CuWKAslC). Интервью Сэма Коркоса у Тима Ферриса раскрывает новаторские подходы к корпоративной культуре и управлению в Levels Health. Особое внимание уделяется асинхронному общению, прозрачности процессов, активной работе с документацией и принципу "закрыть цикл". Коркос делится своими стратегиями по тайм-менеджменту, включая уникальный подход к планированию и использованию технологий для оптимизации рабочих процессов.
+7. [Как проводить собрания в Levels Health.](https://levelshealth.notion.site/How-Levels-Does-Meetings-7494df9281bf4bb8ac16b97a291e4cb6) Документ из Levels Health описывает их подход к проведению собраний в культуре удалённой работы. Он акцентирует внимание на сокращении синхронных собраний в пользу асинхронного общения через письменные документы, записи и электронную почту, ценя время сотрудников и способствуя работе. Для редких синхронных собраний применяется следующая стратегия: 1. **Prepare in advance.** 2. **Invite as few people as possible.** 3. **Be on time.** 4. **Take notes and follow through.** 5. **Record & distribute.**
+8. [80% of Your Culture is Your Founder.](https://review.firstround.com/80-of-Your-Culture-is-Your-Founder) Molly Graham делится уроками о культуре стартапов, утверждая, что культура компании на 80% определяется её основателями. Она подчеркивает роль самопознания и осознанного построения корпоративной культуры, а также важность формирования и передачи ясной, уникальной истории компании, которая становится ключом к найму, коммуникации и стратегическому росту.
+9. Hiring is a network effect. The first 100 people you hire will define the next 200.
+10. The process of planning is more important than the plan itself. It forces people to think about what they're able to get done.
