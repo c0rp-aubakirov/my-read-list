@@ -27,6 +27,8 @@
 13. TODO. Gravity (Richard Browning). https://www.amazon.com/Taking-Gravity-Inventing-Impossible-Learned/dp/1787630897. 2022
 14. TODO. Working Backwards: Insights, Stories, and Secrets from Inside Amazon (Colin Bryar). 2022
 15. Мой лучший друг - желудок. Елена Мотова. Доказательная медицина. 2022
+16. Лидер и племя. Пять уровней корпоративной культуры. 2023
+17. Человек, который принял жену за шляпу. 2024
 
 
 ## Новости
@@ -198,7 +200,7 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
   21. [Relatedness](https://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5783be2d440243db4a550a84/1468251696692/HidalgoKlingerBarabasiHausmannScience2007.pdf)
 
 #2022
-1. [Статья о специальности SE и как должна выглядеть образовательная программа]https://www.researchgate.net/publication/232948975_Software_engineering_education_Some_important_dimensions
+1. [Статья о специальности SE и как должна выглядеть образовательная программа](https://www.researchgate.net/publication/232948975_Software_engineering_education_Some_important_dimensions)
 2. [Статья о проблемах SE специальности] (https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 3. [Большая статья об SE и GSE, внутри большой обзор статей](https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 4. [Статья о системном подходе к анализу статей, о том как делать Literature Review](https://www.researchgate.net/publication/228350426_Systematic_Mapping_Studies_in_Software_Engineering)
@@ -206,3 +208,12 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 6. [Хорошо описано что такое Microservices and Service Based Design](https://youtu.be/zzMLg3Ys5vI)
 7. [Применение Graph Transformer Networks для распознавания речи в текст](https://www.youtube.com/watch?v=Of9s8epjflU)
 8. [Доклад про утилиту coz-profiler и про крутую методику исследования проблем производительности](https://youtu.be/r-TLSBdHe1A)
+
+#2023
+1. [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44321681-team-topologies) by Matthew Skelton, Manuel Pais, et al. Эта книга предлагает инновационный подход к организации и взаимодействию команд в бизнесе и технологиях для достижения более быстрого и эффективного потока работы. Авторы делают акцент на значимости структуры команд, взаимодействия и четкого разграничения ответственности для оптимизации процессов разработки и операционной деятельности.
+2. "Лидер и племя. Пять уровней корпоративной культуры". Эта книга освещает ключевые аспекты формирования и развития корпоративной культуры на разных уровнях организационной структуры. Авторы детально разбирают пять уровней, на которых лидер может влиять на формирование культуры в компании, и предлагают практические советы по укреплению и поддержанию здоровой рабочей атмосферы.
+3. [Make Friends with the Monster Chewing on Your Leg and Other Tips for Surviving Startups](https://review.firstround.com/make-friends-with-the-monster-chewing-on-your-leg-and-other-tips-for-surviving-startups). Советы и стратегии для тех, кто работает в стартапах. Акцент на уникальные вызовы и динамику стартап среды. Подчеркивает важность гибкости, настойчивости и способности налаживать отношения даже в самых трудных обстоятельствах. Важно быть прозрачными и открытыми друг с другом.
+4. [Give Away Your Legos and Other Commandments for Scaling Startups](https://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups). Фокусируется на ключевых принципах и стратегиях масштабирования стартапов. Обсуждается важность готовности к переменам, передачи ответственности и умения адаптироваться к растущим потребностям компании. Важно уметь отдавать и делегировать
+5. [Планировали, планировали и выпланировали: Переход на Shape Up от Basecamp](https://habr.com/ru/articles/775568/). Статья рассказывает о переходе команды с использования Scrum на подход Shape Up, разработанный Basecamp. Автор подробно описывает методологию Shape Up, акцентируя внимание на её структуре, циклах работы, роли команды и процессе принятия решений. Освещены преимущества подхода, такие как улучшенное планирование, чёткость приоритетов и повышенная продуктивность, а также потенциальные трудности при интеграции методологии в существующие процессы. Очень похоже на то, что нам удалось сделать в innoforce.kz
+6. [Про уникальную культуру levelshealth, про их async culture и про их memo culture ](https://youtu.be/MtrkDoQFArU?si=K5t1GA03CuWKAslC)
+7. [Как проводить собрания в Levels Health.](https://levelshealth.notion.site/How-Levels-Does-Meetings-7494df9281bf4bb8ac16b97a291e4cb6) Документ из Levels Health описывает их подход к проведению собраний в культуре удалённой работы. Он акцентирует внимание на сокращении синхронных собраний в пользу асинхронного общения через письменные документы, записи и электронную почту, ценя время сотрудников и способствуя работе. Для редких синхронных собраний применяется следующая стратегия: 1. **Prepare in advance.** 2. **Invite as few people as possible.** 3. **Be on time.** 4. **Take notes and follow through.** 5. **Record & distribute.** 
