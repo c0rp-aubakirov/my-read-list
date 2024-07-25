@@ -31,32 +31,20 @@
 17. Открывая организации будущего (Фредерик Лалу). 2023
 18. Человек, который принял жену за шляпу. 2024
 19. TODO Хитмейкеры. Наука популярности в эпоху развлечений
-
-
-## Новости
-1. https://medium.com/
-2. https://techcrunch.com/
-4. https://journal.tinkoff.ru/
-5. https://about.gitlab.com/blog/
-6. https://t.me/addmeto
-7. https://www.linux.org.ru/
-8. https://www.theverge.com/
-9. http://www.computerra.ru/
-10. https://t.me/zenleaks
+20. Quantum Supremacy: How the Quantum Computer. Michio Kaku. 2024
+21. Range: Why Generalists Triumph in a Specialized World. David Epstein. 2024
 
 ## Чтение для души 
 1. Блог о ML и Deep Learning http://karpathy.github.io/
-2. dirty.ru, https://d3.ru/user/sly2m/posts/
 3. https://habrahabr.ru/
 4. http://www.degeneratestate.org/index.html
-5. http://www.yegor256.com/
 6. http://blog.cleancoder.com/
 7. https://martinfowler.com/
 8. Блог создателей SO и discourse https://blog.codinghorror.com/
-9. Вопросы и ответы https://www.quora.com/
 10. Блог Yann LeCun http://yann.lecun.com/
 11. Сообщество программистов https://dou.ua/
-12. Научно-популярное развлекательное издание о том, что происходит в науке, технике и технологиях прямо сейчас. https://nplus1.ru/
+12. https://nplus1.ru/
+13. https://phys.org/
 
 ## Каналы YouTube
 1. [Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ)
@@ -71,11 +59,9 @@
 12. [GOTO Conference. От разработчиков разработчикам](https://www.youtube.com/user/GotoConferences)
 13. [Пост наука](https://www.youtube.com/channel/UCSPd93is2UQsd_jZ6yHBfqQ)
 14. [Культурно-просветительского центра "Архэ"](https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-LYQ)
-
-## Соц. сети
-1. [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
-2. [Новости по Deep Learning. Ребята скидывают свежие научные статьи](https://vk.com/deeplearning)
-3. [Самые полезные и интересные материалы Яндекса для разработчиков](https://vk.com/yandex4developers)
+15. [Об эволюции человека - из первых рук. Пишут антропологи, генетики, археологи.](https://youtube.com/@antropogenezru?si=FsxAJQ7c4Tl5-OEV)
+16. [Армен и Фёдор - канал о литературе, которая отказывается умирать.](https://youtube.com/@armenifedor?si=OeMklW1vfgtbR9cr)
+17. [Мы делаем подкасты про науку, историю, секс, технологии, психологию, деньги, искусство — в общем, про все, что интересно](https://youtube.com/@libolibostudio?si=QWa3p2rYCSwfu8YL)
 
 ## Гайды
 1. [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -84,11 +70,6 @@
 4. [Как работает Spring Boot от потрошителя Spring](https://www.youtube.com/watch?v=8xa0RWMwAOE&feature=share)
 5. [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore)
 
-## Журналы и конференции
-
-1. https://tiot.acm.org/
-2. http://conferences.computer.org/iotdi/
-3. https://www.mdpi.com/journal/information
 
 ## Полезные видео
 
