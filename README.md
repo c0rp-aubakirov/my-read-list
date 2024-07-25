@@ -182,7 +182,7 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
   20. Relatedness of products, Graph Theory 
   21. [Relatedness](https://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5783be2d440243db4a550a84/1468251696692/HidalgoKlingerBarabasiHausmannScience2007.pdf)
 
-#2022
+## 2022
 1. [Статья о специальности SE и как должна выглядеть образовательная программа](https://www.researchgate.net/publication/232948975_Software_engineering_education_Some_important_dimensions)
 2. [Статья о проблемах SE специальности] (https://www.sciencedirect.com/science/article/pii/S0164121220301667)
 3. [Большая статья об SE и GSE, внутри большой обзор статей](https://www.sciencedirect.com/science/article/pii/S0164121220301667)
@@ -192,7 +192,7 @@ Visualization: a Survey. Ivan Herman ](http://papers.cumincad.org/data/works/att
 7. [Применение Graph Transformer Networks для распознавания речи в текст](https://www.youtube.com/watch?v=Of9s8epjflU)
 8. [Доклад про утилиту coz-profiler и про крутую методику исследования проблем производительности](https://youtu.be/r-TLSBdHe1A)
 
-#2023
+## 2023
 1. [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44321681-team-topologies) by Matthew Skelton, Manuel Pais, et al. Эта книга предлагает инновационный подход к организации и взаимодействию команд в бизнесе и технологиях для достижения более быстрого и эффективного потока работы. Авторы делают акцент на значимости структуры команд, взаимодействия и четкого разграничения ответственности для оптимизации процессов разработки и операционной деятельности.
 2. "Лидер и племя. Пять уровней корпоративной культуры". Эта книга освещает ключевые аспекты формирования и развития корпоративной культуры на разных уровнях организационной структуры. Авторы детально разбирают пять уровней, на которых лидер может влиять на формирование культуры в компании, и предлагают практические советы по укреплению и поддержанию здоровой рабочей атмосферы.
 3. [Make Friends with the Monster Chewing on Your Leg and Other Tips for Surviving Startups](https://review.firstround.com/make-friends-with-the-monster-chewing-on-your-leg-and-other-tips-for-surviving-startups). Советы и стратегии для тех, кто работает в стартапах. Акцент на уникальные вызовы и динамику стартап среды. Подчеркивает важность гибкости, настойчивости и способности налаживать отношения даже в самых трудных обстоятельствах. Важно быть прозрачными и открытыми друг с другом. How much healthier would everyone be if they realized that people at all the startups they admire also feel terrified half the time?” says Graham. “There’s so much power in admitting and sharing that, in recognizing that it doesn’t actually mean that the company is driving off a cliff.
